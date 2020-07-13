@@ -1,6 +1,4 @@
-# Lisandro Ramos
-
-## About me
+# About me
 
 - 15 years working as Software Engineer in all software development life cycle using Waterfall and Agile methodologies.
 
